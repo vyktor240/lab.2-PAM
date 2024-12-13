@@ -1,1 +1,1 @@
-# lab.2-PAM
+# PAM-Lab2
